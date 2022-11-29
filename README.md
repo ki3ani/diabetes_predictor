@@ -10,7 +10,7 @@ DATASET USED:(https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+
 
 <br>
 how to run:
-step one: Create a new environment type py -m venv {env-name}
+step one: On your terminal create a new environment type py -m venv {env-name}
 <br>
 step two: On your terminal run pip install -r requirements.txt
 <br>
